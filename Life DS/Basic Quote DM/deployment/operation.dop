@@ -4,4 +4,13 @@
   <uuid>be670c6b-6203-4081-b3f0-4cda93cde613</uuid>
   <decisionModel href="../rules/decisionModel.dmo#14374954-8fd3-4fff-9725-5db629c9b524"/>
   <targetRuleProject href="../../Basic%20Quote%20DM#4fda953f-771f-48d2-9173-440d9a083bd7"/>
+  <tags key="operationDescription">
+    <value><![CDATA[""]]></value>
+  </tags>
+  <tags key="operationName">
+    <value><![CDATA["Basic-Quote-DM"]]></value>
+  </tags>
+  <tags key="exposedAtRuntime">
+    <value><![CDATA[true]]></value>
+  </tags>
 </com.ibm.rules.studio.model.decisionservice:Operation>
