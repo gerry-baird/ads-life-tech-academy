@@ -1,0 +1,24 @@
+
+
+public class Customer
+        property "ads.typeId" "1"
+        property "com.fasterxml.jackson.annotation.JsonTypeName" "Customer"
+        property "de.generated" "true"
+{
+    public java.lang.Long age
+                property "ads.attributeId" "1"
+                property "com.fasterxml.jackson.annotation.JsonProperty" "age"
+                property update "true";
+    public string gender
+                property "ads.attributeId" "2"
+                property "com.fasterxml.jackson.annotation.JsonProperty" "gender"
+                property update "true";
+    public Customer(java.lang.Long age, string gender)
+                property autoExpand "true"
+                property beanConstructor "true"
+                property groups "BALA"
+                property prototype "true";
+    public Customer()
+                property "dataio.default" "true";
+}
+
