@@ -1,0 +1,7 @@
+{
+  "customer": {
+    "age": 22,
+    "gender": "M"
+  },
+  "coverAmount": 60000
+}
